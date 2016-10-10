@@ -1,0 +1,21 @@
+{
+  "name": "meteor-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate meteor app - starting point for meteor apps",
+  "scripts": {
+    "start": "meteor run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidsound/meteor-boilerplate-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acidsound/meteor-boilerplate-1/issues"
+  },
+  "homepage": "https://github.com/acidsound/meteor-boilerplate-1#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.7"
+  }
+}
